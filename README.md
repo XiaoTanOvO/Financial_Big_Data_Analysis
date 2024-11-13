@@ -17,3 +17,7 @@ ARIMA與量化交易策略：<br>
 深度學習ANN與CNN：<br>
 1.用TensorFlow做類神經網路模型預測（回歸任務）<br>
 2.用TensorFlow做CNN模型預測（分類任務）<br><br>
+
+時間序列LSTM與Transformer：<br>
+1.用LSTM模型預測<br>
+2.用Transformer模型預測<br><br>
