@@ -21,3 +21,6 @@ ARIMA與量化交易策略：<br>
 時間序列LSTM與Transformer：<br>
 1.用LSTM模型預測<br>
 2.用Transformer模型預測<br><br>
+
+金融文本情緒辨識HuggingFace：<br>
+1.用HuggingFace做BERT模型情緒辨識<br><br>
