@@ -24,3 +24,6 @@ ARIMA與量化交易策略：<br>
 
 金融文本情緒辨識HuggingFace：<br>
 1.用HuggingFace做BERT模型情緒辨識<br><br>
+
+多模態Multimodal：<br>
+1.多模態Multimodal<br><br>
