@@ -27,3 +27,6 @@ ARIMA與量化交易策略：<br>
 
 多模態Multimodal：<br>
 1.多模態Multimodal<br><br>
+
+生成式AI分析股票：<br>
+1.生成式AI分析股票<br><br>
